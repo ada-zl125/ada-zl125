@@ -1,6 +1,6 @@
-<h1 align="center"><img src="public/images/liang.gif" width="180" alt="Animated developer illustration" /><br />Hi, I’m Zhengyang <img src="https://camo.githubusercontent.com/5417b2eeea698072b823820f973c430610314505b97d2acf286a91797e460d1d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="32" alt="Waving hand" /></h1>
+<h1 align="center"><img src="public/images/liang.gif" width="180" alt="Animated developer illustration" /><br /><img src="public/images/coding.gif" width="40" alt="Coding animation" /> Hi, I’m Zhengyang <img src="public/images/cat-cropped.gif" width="58" align="absmiddle" alt="Cat animation" /></h1>
 
-## About Me
+## <sub><img src="public/images/duck.gif" width="32" alt="Animated duck" /></sub> About Me
 - 🎓 MSc student at Imperial College London.
 - 🤖 Learning and building with LLMs and AI agents.
 - 🧠 Previously focused on machine learning and deep learning.

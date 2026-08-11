@@ -12,11 +12,11 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=github_dark" />
-    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=default" alt="Zhengyang's GitHub profile summary" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ada-zl125&theme=github_dark" />
     <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ada-zl125&theme=default" alt="Zhengyang's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=github_dark" />
+    <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=default" alt="Zhengyang's GitHub profile summary" />
   </picture>
 </p>

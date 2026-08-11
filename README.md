@@ -11,5 +11,8 @@
 ---
 
 <p align="center">
-  <img height="165" src="./profile/stats.svg" alt="Zhengyang's GitHub statistics" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=github_dark" />
+    <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ada-zl125&theme=default" alt="Zhengyang's GitHub statistics" />
+  </picture>
 </p>

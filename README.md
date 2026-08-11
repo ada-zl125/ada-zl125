@@ -11,5 +11,5 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ada-zl125&show_icons=true&hide_title=true&hide_border=true&rank_icon=github" alt="Zhengyang's GitHub statistics" />
+  <img height="165" src="./profile/stats.svg" alt="Zhengyang's GitHub statistics" />
 </p>
